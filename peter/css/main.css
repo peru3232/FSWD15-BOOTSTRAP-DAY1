@@ -86,6 +86,14 @@ footer {
   background-position: top;
 }
 
+p {
+  visibility: hidden;
+}
+
+.bg-gray {
+  background-color: rgb(179, 175, 175);
+}
+
 a {
   text-decoration: none;
 }
